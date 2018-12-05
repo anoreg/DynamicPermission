@@ -1,0 +1,16 @@
+<resources>
+    <string name="permission_alert">程序需要%1$s权限来运行</string>
+    <string name="permission_set">请您在系统设置->应用管理->您的App->权限中设置</string>
+    <string name="permission_null">未授予%1$s权限, 请授权后重试</string>
+    <string name="permission_camera_null">未授予拍照权限, 无法打开相机</string>
+    <string name="permission_storage_null">未授予读写存储卡权限, 无法打开相机</string>
+    <string name="permission_location_null">未授予定位权限, 无法定位您当前位置</string>
+    <string name="permission_audio_null">未授予录音权限, 无法发送语音</string>
+    <string name="permission_contact_null">未授予查看通讯录权限, 无法获取好友信息</string>
+    <string name="permission_camera">相机</string>
+    <string name="permission_phone">电话</string>
+    <string name="permission_storage">存储</string>
+    <string name="permission_location">定位</string>
+    <string name="permission_audio">录音</string>
+    <string name="permission_contact">通讯录</string>
+</resources>
